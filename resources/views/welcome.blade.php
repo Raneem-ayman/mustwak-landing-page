@@ -645,7 +645,7 @@
 
               <div>
                 <i class="bi bi-envelope"></i>
-                <p>info@example.com</p>
+                <p>info@ryada.com</p>
               </div>
 
               <div>
