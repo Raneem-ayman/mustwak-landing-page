@@ -17,6 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('mustawak/index',[LandingPageController::class, 'index']);
 Route::get('mustawak/regestration_form',[LandingPageController::class, 'create']);
 Route::post('store_form',[LandingPageController::class, 'sendStudentData'])->name('store_form');
 

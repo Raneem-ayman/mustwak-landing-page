@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/apple-touch-icon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="{{asset('assets/img/apple-touch-icon.png')}}" rel="icon">
+  <link href="{{asset('assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
@@ -25,8 +25,15 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  {{-- <link href="assets/css/style.css" rel="stylesheet"> --}}
+    <!-- Vendor CSS Files -->
+  <link href="{{asset('assets/vendor/aos/aos.css')}}" rel="stylesheet">
+  <link href="{{asset('assets/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+  <link href="{{asset('assets/vendor/bootstrap-icons/bootstrap-icons.css')}}" rel="stylesheet">
+  <link href="{{asset('assets/vendor/glightbox/css/glightbox.min.css')}}" rel="stylesheet">
 
+  <!-- Template Main CSS File -->
+  <link href="{{asset('assets/css/style2.css')}}" rel="stylesheet">
 </head>
 
 <body>
@@ -36,7 +43,7 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div id="logo">
-        <a href="{{ url('mustawak/index') }}"><img src="assets/img/logo2.png" alt=""></a>
+        <a href="{{ url('mustawak/index') }}"><img src="{{asset('assets/img/logo2.png')}}" alt=""></a>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt=""></a> -->
       </div>
@@ -87,15 +94,15 @@
     <div class="product-screens">
 
       <div class="product-screen-1" data-aos="fade-up" data-aos-delay="400">
-        <img src="assets/img/screen2.jpg" alt="">
+        <img src="{{asset('assets/img/screen2.jpg')}}" alt="">
       </div>
 
       <div class="product-screen-2" data-aos="fade-up" data-aos-delay="200">
-        <img src="assets/img/screen3.jpg" alt="">
+        <img src="{{asset('assets/img/screen3.jpg')}}" alt="">
       </div>
 
       <div class="product-screen-3" data-aos="fade-up">
-        <img src="assets/img/screen4.jpg" alt="">
+        <img src="{{asset('assets/img/screen4.jpg')}}" alt="">
       </div>
 
     </div>
@@ -118,7 +125,7 @@
 
         <div class="row">
           <div class="col-lg-6 about-img" data-aos="fade-right" dat-aos-delay="100" style="text-align: center; width: 35%;">
-            <img src="assets/img/image2.png" alt="">
+            <img src="{{asset('assets/img/image2.png')}}" alt="">
           </div>
 
           <div class="col-lg-6 content" data-aos="fade-left" dat-aos-delay="100">
@@ -160,7 +167,7 @@
           </div>
 
           <div class="col-lg-4 col-md-5 features-img">
-            <img src="assets/img/product-features.png" alt="" data-aos="fade-right">
+            <img src="{{asset('assets/img/product-features.png')}}" alt="" data-aos="fade-right">
           </div>
 
           <div class="col-lg-8 col-md-7 ">
@@ -624,7 +631,7 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="contact-about">
-                <a href="index.html"><img src="assets/img/logo2.png" alt=""></a>
+                <a href="index.html"><img src="{{asset('assets/img/logo2.png')}}" alt=""></a>
                 <p>اكتشف التعليم الفعال مع معلمين ذوي الخبرة والكفائة توفر لأبنائك تجربة تعليمية سلسة ومتميزة.</p>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -712,15 +719,13 @@
   </footer><!-- End  Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-chevron-up"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="{{asset('assets/vendor/aos/aos.js')}}"></script>
+  <script src="{{asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+  <script src="{{asset('assets/vendor/glightbox/js/glightbox.min.js')}}"></script>
+  {{-- <script src="{{asset('assets/vendor/php-email-form/validate.js')}}"></script> --}}
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="{{asset('assets/js/main.js')}}"></script>
 
 </body>
 

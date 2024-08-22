@@ -37,16 +37,16 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div id="logo">
-        <a href="index.html"><img src="{{asset('assets/img/logo2.png')}}" alt=""></a>
+        <a href="{{ url('mustawak/index') }}"><img src="{{asset('assets/img/logo2.png')}}" alt=""></a>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt=""></a> -->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">الرئيسية</a></li>
-          <li><a class="nav-link scrollto" href="#about">المزيد عنا</a></li>
-          <li><a class="nav-link scrollto" href="#features">المميزات</a></li>
+          <li><a class="nav-link scrollto" href="{{ url('mustawak/index') }}#hero">الرئيسية</a></li>
+          <li><a class="nav-link scrollto" href="{{ url('mustawak/index') }}#about">المزيد عنا</a></li>
+          <li><a class="nav-link scrollto" href="{{ url('mustawak/index') }}#features">المميزات</a></li>
           {{-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li> --}}
           {{-- <li><a class="nav-link scrollto" href="#team">Team</a></li> --}}
           {{-- <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li> --}}
@@ -67,7 +67,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li> --}}
-          <li><a class="nav-link scrollto" href="#contact">تواصل معنا</a></li>
+          <li><a class="nav-link scrollto" href="{{ url('mustawak/index') }}#contact">تواصل معنا</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -104,7 +104,7 @@
             <!-- Parent Information Section -->
             <div class="row mt-3">
               <div class="form-group col-lg-6">
-                <label for="parent_name">اسم الوالد</label>
+                <label for="parent_name">اسم ولي الامر</label>
                 <input type="text" class="form-control" name="parent_name" id="parent_name" required>
               </div>
               <div class="form-group col-lg-6">
@@ -114,46 +114,46 @@
             </div>
             <div class="row mt-3">
               <div class="form-group col-lg-6">
-                <label for="parent_phone">رقم هاتف الوالد</label>
+                <label for="parent_phone">رقم هاتف ولي الامر</label>
                 <input type="text" class="form-control" name="parent_phone" id="parent_phone" required>
               </div>
               <div class="form-group col-lg-6">
-                <label for="parent_location">بلد الوالد</label>
+                <label for="parent_location">بلد ولي الامر</label>
                 <input type="text" class="form-control" name="parent_location" id="parent_location" required>
               </div>
             </div>
             <div class="row mt-3">
               <div class="form-group col-lg-6">
-                <label for="parent_image">رابط صورة الوالد</label>
+                <label for="parent_image">رابط صورة ولي الامر</label>
                 <input type="file" class="form-control" name="parent_image" id="parent_image" >
               </div>
               <div class="form-group col-lg-6">
-                <label for="parent_dob">تاريخ ميلاد الوالد</label>
+                <label for="parent_dob">تاريخ ميلاد ولي الامر</label>
                 <input type="date" class="form-control" name="parent_dob" id="parent_dob" >
               </div>
             </div>
             <div class="row mt-3">
               <div class="form-group col-lg-6">
-                <label for="parent_whatsapp">رابط واتساب الوالد</label>
+                <label for="parent_whatsapp">رابط واتساب ولي الامر</label>
                 <input type="url" class="form-control" name="parent_whatsapp" id="parent_whatsapp">
               </div>
               <div class="form-group col-lg-6">
-                <label for="parent_facebook">رابط فيسبوك الوالد</label>
+                <label for="parent_facebook">رابط فيسبوك ولي الامر</label>
                 <input type="url" class="form-control" name="parent_facebook" id="parent_facebook" >
               </div>
             </div>
             <div class="row mt-3">
               <div class="form-group col-lg-6">
-                <label for="parent_snapchat">رابط سناب شات الوالد</label>
+                <label for="parent_snapchat">رابط سناب شات ولي الامر</label>
                 <input type="url" class="form-control" name="parent_snapchat" id="parent_snapchat" >
               </div>
               <div class="form-group col-lg-6">
-                <label for="parent_youtube">رابط يوتيوب الوالد</label>
+                <label for="parent_youtube">رابط يوتيوب ولي الامر</label>
                 <input type="url" class="form-control" name="parent_youtube" id="parent_youtube" >
               </div>
             </div>
             <div class="form-group mt-3">
-              <label for="parent_gender">جنس الوالد</label>
+              <label for="parent_gender">جنس ولي الامر</label>
               <select class="form-control" name="parent_gender" id="parent_gender" required>
                 <option value="MALE">ذكر</option>
                 <option value="FEMALE">أنثى</option>
@@ -161,13 +161,12 @@
             </div>
             <div class="row mt-3">
               <div class="form-group col-lg-6">
-                <label for="parent_nationalId">الرقم القومي للوالد</label>
+                <label for="parent_nationalId">رقم هوية ولي الامر  </label>
                 <input type="text" class="form-control" name="parent_nationalId" id="parent_nationalId" required>
               </div>
               <div class="form-group col-lg-6">
-                <label for="parent_password">كلمة مرور الوالد</label>
-                <input type="text" class="form-control" name="parent_password" id="parent_password"
-                pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}"
+                <label for="parent_password">كلمة مرور ولي الامر</label>
+                <input type="text" class="form-control" name="parent_password" id="parent_password" placeholder="ex:Default@123"
                 title="Password must contain at least one capital letter, one small letter, one special character, one number, and be at least 8 characters long"
                 required>
               </div>
@@ -237,14 +236,23 @@
                 <div class="row mt-3">
                   <div class="form-group col-lg-6">
                     <label for="student_password">كلمة مرور الطالب</label>
-                    <input type="text" class="form-control" name="student_password[]" id="student_password"
-                    pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}"
+                    <input type="text" class="form-control" name="student_password[]" id="student_password" placeholder="ex:Default@123"
                     title="Password must contain at least one capital letter, one small letter, one special character, one number, and be at least 8 characters long"
                     required>
                   </div>
                   <div class="form-group col-lg-6">
                     <label for="student_level">مستوى الطالب</label>
-                    <input type="number" class="form-control" name="student_level[]" id="student_level" required>
+                        <select class="form-control" name="student_level[]" id="student_level" required>
+                            <option value="" disabled selected>اختر مستوى الطالب</option>
+                            <option value="1">المستوى 1</option>
+                            <option value="2">المستوى 2</option>
+                            <option value="3">المستوى 3</option>
+                            <option value="4">المستوى 4</option>
+                            <option value="5">المستوى 5</option>
+                            <option value="6">المستوى 6</option>
+
+                            <!-- Add more options as needed -->
+                        </select>
                   </div>
                 </div>
               </div>
@@ -364,14 +372,23 @@
         <div class="row mt-3">
           <div class="form-group col-lg-6">
             <label for="student_password">كلمة مرور الطالب</label>
-            <input type="text" class="form-control" name="student_password[]" id="student_password"
-             pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}"
-           title="Password must contain at least one capital letter, one small letter, one special character, one number, and be at least 8 characters long"
+            <input type="text" class="form-control" name="student_password[]" id="student_password" placeholder="ex:Default@123"
+                title="Password must contain at least one capital letter, one small letter, one special character, one number, and be at least 8 characters long"
              required>
           </div>
           <div class="form-group col-lg-6">
-            <label for="student_level">مستوى الطالب</label>
-            <input type="number" class="form-control" name="student_level[]" id="student_level" required>
+                <label for="student_level">مستوى الطالب</label>
+                <select class="form-control" name="student_level[]" id="student_level" required>
+                    <option value="" disabled selected>اختر مستوى الطالب</option>
+                    <option value="1">المستوى 1</option>
+                    <option value="2">المستوى 2</option>
+                    <option value="3">المستوى 3</option>
+                    <option value="4">المستوى 4</option>
+                    <option value="5">المستوى 5</option>
+                    <option value="6">المستوى 6</option>
+
+                    <!-- Add more options as needed -->
+                </select>
           </div>
         </div>
       `;

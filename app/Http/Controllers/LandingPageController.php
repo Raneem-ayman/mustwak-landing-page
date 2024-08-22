@@ -8,6 +8,9 @@ use Illuminate\Support\Facades\Http;
 class LandingPageController extends Controller
 {
 
+    public function index(){
+        return view('welcome2');
+    }
     public function create(){
         return view('form');
     }
