@@ -78,7 +78,7 @@
 
     <div class="hero-text" data-aos="zoom-out">
       <h2>مرحبا بك في مستواك التعليمي</h2>
-      <p>اكتشف مع طفلك رحلة التعلم والتحصيل الممتعة</p>
+      <p> نمي قدرات طفلك و تابع تطور قدراته بأحدث التقنيات </p>
       <a href="#" class="btn-get-started scrollto"><i class="fa-brands fa-google-play"></i> Google Play</a>
       <a href="#" class="btn-get-started scrollto"><i class="fa-brands fa-apple"></i> App Store</a>
       {{-- <a href="#about" class="btn-get-started scrollto">Get Started</a> --}}
@@ -111,8 +111,7 @@
           <h3 class="section-title">المزيد عنا</h3>
           <span class="section-divider"></span>
           <p class="section-description">
-            شركة ريادة الفكر هي شركة متخصصة في تقديم الخدمات والاستشارات التعليمية والتربوية وتطوير المناهج السعودية، وتعمل داخل المملكة لتقديم حلول تعليمية متميزة للطلاب وأولياء الأمور، خصوصاً في مرحلة التعليم الأساسي التي تعتبر أساس رحلة التعلم.
-
+            مركز ريادة الفكر هو مركز متخصص في تقديم الخدمات و الاستشارات التعليمية و التربوية و الحلول التعليمية المتميزة للطلاب في مرحلة التعليم الاساسي و التي تعتبر أساس قوي لرحلة التعلم علي مدي سنوات الطالب الدراسية. يقدم مركز رسادة الفكر خبراته في تبسيط المناهج الدراسية و تسييرها بالتزامن مع خطة الدراسة في المدرسة و ذلك من خلال فريق من المتخصصين و الخبراء في مجال التعليم و تنمية القدرات التربوية و التعليمية.                      كل ذلك و أكثر تحصل عليه من خلال تطبيق مستواك ، ذلك التطبيق الذي يأخذ الطالب في رحلة من التعلم السهل والممتع و الجذاب الذي يجعل الطالب يستمتع بكل لحظة يقضيها في استذكار الدروس علي التطبيق دون اي شعور سوي المتعة المحملة بالإنجاز و التفوق
           </p>
         </div>
 
@@ -125,7 +124,7 @@
             {{-- <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elite storium paralate</h2> --}}
             {{-- <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3> --}}
             <p>
-              تركز ريادة الفكر على تطوير المناهج التعليمية وصياغتها بشكل مبسط على شكل فيديوهات وشرح شامل ومفصل، يتم تقديمها للطلاب عبر تطبيقات مطورة بواسطة فريق من التقنيين المتخصصين في تطوير البرمجيات. تهتم الشركة بتلبية احتياجات ولي الأمر، والطالب، والمعلم، ورواد التعليم، والمهتمين بالشأن التعليمي والتربوي داخل المملكة، من خلال تقديم محتوى متميز في سياق ممتع يعزز من متعة التعلم ويشعر الطالب وكأنه يلعب، ولكن بشكل محترف ينقله من مستوى تعلم إلى المستوى التالي دون أن يشعر.
+                يحرص مركز ريادة الفكر علي تقديم المناهج بشكل مبسط علي شكل فيديوهات مبسطة المعلومات من خلال تطبيق مستواك الذي تم اعداده من قِبل فريق من الخبراء التربويين و التقنيين.
             </p>
 
             {{-- <ul>
@@ -135,10 +134,11 @@
             </ul> --}}
 
             <p>
-              تسعى ريادة الفكر إلى تحسين مهارات الطالب وقدراته على التفكير، والاستيعاب، والملاحظة، والفهم، يوماً بعد يوم، مما يساعده على الاعتماد على نفسه تماماً في رحلة التعلم من خلال تطبيقاتنا، وبالتالي يخفف عن ولي الأمر عبء المتابعة الدقيقة لضمان تحقيق الفائدة والتعلم.
+                يهتم مركز ريادة الفكر بتلبية احتياجات ولي الأمر و الطالب و المعلم أيضا من خلال نسخ مختلفة يحص عليها كل منهم لمتابعة الطالب عن بعد .
             </p>
             <p>
-              بالإضافة إلى ذلك، يتضمن فريق ريادة الفكر مجموعة من التربويين الذين يقدمون خدمات إشرافية على رحلة التعلم، وهم مستعدون دائماً لتقديم الدعم للطلاب في أي مرحلة من مراحل التعلم. يمكن للمعلمين والطلاب الاستفادة من هذه الخدمات المتطورة، مما يسهل عملية التعلم بنجاح ويحقق نتائج مبهرة.
+                يستطيع ايضا رواد النعليم من اصحاب المدارس و التربويين و المهتمين بالشأن التعليمي الاستفادة من هذا التطبيق المتميز جدا بمحتواه التعليمي المبسط و المناسب للفئة العمرية من أبناءنا في مرحلة التعليم الاساسي و ذلك من خلال محتوي متميز في سياق جذاب يعزز من متعة التعلم  بطريقة احترافية تستطيع أن تنقل الطالب من مرحلة إلي أخري في سياق مرتب و مشجع علي التعلم و الإنجاز و ذلك من خلال برنامج الحوافز الذي يحصل من خلاله الطالب علي نقاط علي كل انجاز او او مرحلة ينجزها الطالب ثم يستبدلها فيما بعد من أحدي المتاجر الكبري التي حرص المركز علي التعاون معهم كشركاء في النجاح.
+
             </p>
           </div>
         </div>
@@ -146,59 +146,132 @@
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Featuress Section ======= -->
-    <section id="features">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-
-          <div class="offset-lg-4">
-            <div class="section-header">
-              <h3 class="section-title">مميزات التطبيق</h3>
-              <span class="section-divider"></span>
-            </div>
+    <!-- ======= Features Section ======= -->
+<section id="features">
+    <div class="container" data-aos="fade-up">
+      <div class="row">
+        <div class="offset-lg-4">
+          <div class="section-header">
+            <h3 class="section-title">مميزات التطبيق</h3>
+            <span class="section-divider"></span>
           </div>
-
-          <div class="col-lg-4 col-md-5 features-img">
-            <img src="assets/img/product-features.png" alt="" data-aos="fade-right">
-          </div>
-
-          <div class="col-lg-8 col-md-7 ">
-
-            <div class="row">
-
-              <div class="col-lg-6 col-md-6 box" data-aos="fade-up">
-                <div class="icon"><i class="bi bi-briefcase"></i></div>
-                <h4 class="title"><a href="">نظام تقييم متقدم وشامل</a></h4>
-                <p class="description">يتضمن تقييمًا مستمرًا لأداء الطلاب في الاختبارات بعد كل درس، بالإضافة إلى تقييم مهاراتهم ومستوياتهم الفردية في كل مادة.
-                </p>
-              </div>
-              <div class="col-lg-6 col-md-6 box" data-aos="fade-up">
-                <div class="icon"><i class="bi bi-card-checklist"></i></div>
-                <h4 class="title"><a href="">لوحة تحكم لولي الأمر</a></h4>
-                <p class="description">تمكن ولي الأمر من متابعة تقدم وأداء طفله بشكل فعال، مع إمكانية عرض التقارير والإحصائيات حول تقدمه التعليمي والتقييمات الشخصية.
-                </p>
-              </div>
-              <div class="col-lg-6 col-md-6 box" data-aos="fade-up" dat-aos-delay="100">
-                <div class="icon"><i class="bi bi-binoculars"></i></div>
-                <h4 class="title"><a href="">تعلم في أي وقت</a></h4>
-                <p class="description">هذه الخاصية تسمح للطلاب بالوصول إلى دروس مسجلة تم تقديمها من معلمين ذوي كفاءة عالية في أي وقت يرونه مناسبًا. </p>
-              </div>
-              <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon"><i class="bi bi-brightness-high"></i></div>
-                <h4 class="title"><a href="">تحليل بيانات للمعلم</a></h4>
-                <p class="description">يتيح للمدرس تحليل بيانات أداء الطلاب بشكل شامل، بما في ذلك اكتشاف الاتجاهات في الأسئلة التي يخطئ فيها الطلاب بشكل متكرر، مما يساعد على تحسين عملية التعليم والتقييم.
-                </p>
-              </div>
-            </div>
-
-          </div>
-
         </div>
 
-      </div>
+        <div class="col-lg-4 col-md-5 features-img">
+          <img src="assets/img/product-features.png" alt="" data-aos="fade-right">
+        </div>
 
-    </section><!-- End Featuress Section -->
+        <div class="col-lg-8 col-md-7">
+          <div class="row">
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up">
+              <div class="icon"><i class="bi bi-check-circle"></i></div>
+              <h4 class="title">سهولة الاشتراك والتسجيل</h4>
+              <p class="description">سهولة في التسجيل والانضمام للمنصة لتيسير وصول الجميع.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bi bi-book"></i></div>
+              <h4 class="title">الوصول للمحتوى التعليمي بسهولة</h4>
+              <p class="description">يتيح للطلاب الوصول إلى المحتوى دون الحاجة لمساعدة الأسرة.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="bi bi-calendar"></i></div>
+              <h4 class="title">ترتيب المحتوى التعليمي زمنياً</h4>
+              <p class="description">المحتوى منظم ليتماشى مع خطة التعليم العام.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon"><i class="bi bi-brain"></i></div>
+              <h4 class="title">تنمية المهارات الأساسية</h4>
+              <p class="description">يركز المحتوى على المهارات الأساسية التي ستفيد الطالب مستقبلاً.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-display"></i></div>
+              <h4 class="title">وسائل عرض متنوعة وجذابة</h4>
+              <p class="description">تقديم المحتوى بوسائل عرض متنوعة لجذب انتباه الطلاب.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="500">
+              <div class="icon"><i class="bi bi-lightbulb"></i></div>
+              <h4 class="title">تنمية مهارة التفكير</h4>
+              <p class="description">التركيز على مهارة التفكير وجذب انتباه الطالب.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="600">
+              <div class="icon"><i class="bi bi-globe"></i></div>
+              <h4 class="title">ربط الشروحات بأمثلة واقعية</h4>
+              <p class="description">شرح المواد مع أمثلة من واقع حياة الطالب.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="700">
+              <div class="icon"><i class="bi bi-person-lines-fill"></i></div>
+              <h4 class="title">تنمية التعلم الذاتي</h4>
+              <p class="description">تعزيز مهارة التعلم الذاتي لدى الطلاب.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="800">
+              <div class="icon"><i class="bi bi-graph-up"></i></div>
+              <h4 class="title">تقييم دقيق للمستوى</h4>
+              <p class="description">وضع أسئلة موجهة لتنمية مهارات التفكير والتحليل.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="900">
+              <div class="icon"><i class="bi bi-bar-chart"></i></div>
+              <h4 class="title">تحليل النتائج</h4>
+              <p class="description">تحليل النتائج لتحديد نقاط القوة والضعف.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1000">
+              <div class="icon"><i class="bi bi-file-earmark-text"></i></div>
+              <h4 class="title">تقرير مباشر لولي الأمر</h4>
+              <p class="description">تقديم تقارير فورية لولي الأمر حول أداء الطالب.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1100">
+              <div class="icon"><i class="bi bi-clock-history"></i></div>
+              <h4 class="title">خطة زمنية متكاملة</h4>
+              <p class="description">تحديد خطة لضمان تماشي الطالب مع خطة التعليم العام.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1200">
+              <div class="icon"><i class="bi bi-award"></i></div>
+              <h4 class="title">نقاط تحفيزية كمكافآت</h4>
+              <p class="description">تحويل النقاط المحفزة إلى مكافآت مالية وعينية.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1300">
+              <div class="icon"><i class="bi bi-chat-left-dots"></i></div>
+              <h4 class="title">التواصل الدائم</h4>
+              <p class="description">إشعارات شكر وتقدير للطلاب وأولياء الأمور.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1400">
+              <div class="icon"><i class="bi bi-currency-dollar"></i></div>
+              <h4 class="title">تكاليف منخفضة</h4>
+              <p class="description">منصة ذات تكاليف مناسبة ومخفضة للجميع.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1500">
+              <div class="icon"><i class="bi bi-shield-lock"></i></div>
+              <h4 class="title">الأمان والخصوصية</h4>
+              <p class="description">توفير الخصوصية والأمان لكافة بيانات المستخدمين.</p>
+            </div>
+
+            <div class="col-lg-6 col-md-6 box" data-aos="fade-up" data-aos-delay="1600">
+              <div class="icon"><i class="bi bi-person-plus"></i></div>
+              <h4 class="title">تنوع الاشتراكات والمسارات</h4>
+              <p class="description">خيارات متعددة تناسب احتياجات الطلاب المختلفة.</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Features Section -->
+
 
     <!-- ======= Advanced Featuress Section ======= -->
     {{-- <section id="advanced-features">
@@ -261,7 +334,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-9 ">
-            <h3 class="cta-title">انضم إلينا الآن!</h3>
+            <h3 class="cta-title">لا تفوت الفرصة و انضم الأن!</h3>
             <p class="cta-text">املأ نموذج التسجيل لانضمام طفلك إلى تطبيق مستواك التعليمي ليستمتع بتجربة تعليمية فريدة ومتنوعة. لا تفوت فرصة طفلك في تحسين مهاراته ومعرفته مع أفضل المحتويات التعليمية!</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
@@ -422,7 +495,7 @@
         <div class="section-header">
           <h3 class="section-title">الاسئلة الشائعة</h3>
           <span class="section-divider"></span>
-          <p class="section-description">الأسئلة الشائعة هي قسم يحتوي على إجابات لأكثر الأسئلة تكرارًا التي يطرحها المستخدمون حول كيفية استخدام التطبيق والاستفادة من ميزاته.</p>
+          {{-- <p class="section-description">الأسئلة الشائعة هي قسم يحتوي على إجابات لأكثر الأسئلة تكرارًا التي يطرحها المستخدمون حول كيفية استخدام التطبيق والاستفادة من ميزاته.</p> --}}
         </div>
 
         <ul class="faq-list">
@@ -439,28 +512,68 @@
             <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">كيف يمكنني التسجيل في التطبيق؟<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
               <p>
-                يمكنك التسجيل في التطبيق عبر تحميله من متجر التطبيقات (App Store أو Google Play) وإنشاء حساب جديد باستخدام بريدك الإلكتروني أو حسابك على وسائل التواصل الاجتماعي.
+                يمكنك التسجيل من خلال تنزيل التطبيق مباشرة من رابط التطبيق علي هذه الصفحة او من خلال تنزيله من المتجر google play و سيتم اتاحته قريبا علي متجر ال app store .
               </p>
             </div>
           </li>
 
-          <li>
+          {{-- <li>
             <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">هل يتطلب التطبيق اتصالاً بالإنترنت لمشاهدة الفيديوهات؟<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq3" class="collapse" data-bs-parent=".faq-list">
               <p>
                 نعم، يتطلب التطبيق اتصالاً بالإنترنت لمشاهدة الفيديوهات.             </p>
             </div>
-          </li>
+          </li> --}}
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">ما هي أنواع المحتوى المتاحة في التطبيق؟ <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">  هل يتم شرح جميع الدروس في المواد؟ <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq4" class="collapse" data-bs-parent=".faq-list">
               <p>
-                التطبيق يقدم محتوى متنوع يتضمن دروسًا في اللغة العربية، اللغة الانجليزية، الرياضيات، العلوم.
+                دم التطبيق دروسا في جميع المواد الاساسية ( لغة عربية - رياضيات - لغة انجليزية - علوم ) من خلال فيديوهات قصيرة لمدة خمس دقائق تشرح المعلومة بشكل مبسط جدا.
               </p>
             </div>
           </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">هل التطبيق خاص بالطلاب المنتظمين؟
+                <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq5" class="collapse" data-bs-parent=".faq-list">
+            <p>
+                عم يستطيع الطلاب المنتظمين و غير المنتظمين الاشتراك و متابعة الدروس
 
+            </p>
+            </div>
+          </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">  هل انشاء الحساب خاص بولي الامر؟
+                <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                نعم يقوم ولي الامر بالتسجيل اول مرة و الاشتراك ثم إضافة الاأناء واحدًا تلو الأخر و تنزيل نسخة الطالب علي هواتفهم .
+            </p>
+            </div>
+          </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">ماهي الباقات المقدمة؟
+                <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                ⁠هناك ثلاث باقات متاحة
+                - شهرية
+                - فصلية
+                - سنوية
+                و ذلك لفترة محدودة و لمدة شهرين
+              </p>
+            </div>
+          </li>
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question"> ⁠هل يوجد شهادة بعد الانتهاء من البرنامج؟
+
+                <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                بالطبع يحصل الطالب علي شهادة من المركز و التطبيق بنجاحه و اتمامه كل مرحلة .              </p>
+            </div>
+          </li>
           <li>
             <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">كيف يمكنني التواصل مع فريق الدعم الفني؟<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq5" class="collapse" data-bs-parent=".faq-list">
